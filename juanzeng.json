@@ -4,7 +4,7 @@
     "name": "李柯",
     "amount": 1000,
     "date": "2025-09-22",
-    "note": "",
+    "note": "微信",
     "isAnonymous": false
   },
     {
@@ -12,7 +12,7 @@
     "name": "王洋",
     "amount": 100,
     "date": "2025-09-28",
-    "note": "",
+    "note": "微信",
     "isAnonymous": false
   },
     {
@@ -20,6 +20,22 @@
     "name": "*L",
     "amount": 9.90,
     "date": "2025-09-28",
+    "note": "微信",
+    "isAnonymous": false
+  },
+    {
+    "id": "4",
+    "name": "*溢",
+    "amount": 9.90,
+    "date": "2025-10-3",
+    "note": "支付宝",
+    "isAnonymous": false
+  },
+    {
+    "id": "5",
+    "name": "*i",
+    "amount": 2.00,
+    "date": "2025-10-5",
     "note": "",
     "isAnonymous": false
   }
