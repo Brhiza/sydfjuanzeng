@@ -18,7 +18,7 @@
     {
     "id": "3",
     "name": "*L",
-    "amount": 9.90,
+    "amount": 9.9,
     "date": "2025-09-28",
     "note": "微信",
     "isAnonymous": false
@@ -26,7 +26,7 @@
     {
     "id": "4",
     "name": "*溢",
-    "amount": 9.90,
+    "amount": 9.9,
     "date": "2025-10-03",
     "note": "支付宝",
     "isAnonymous": false
@@ -34,7 +34,7 @@
     {
     "id": "5",
     "name": "*i",
-    "amount": 2.00,
+    "amount": 2,
     "date": "2025-10-05",
     "note": "微信",
     "isAnonymous": false
@@ -42,7 +42,7 @@
     {
     "id": "6",
     "name": "WES 温",
-    "amount": 200.00,
+    "amount": 200,
     "date": "2025-10-07",
     "note": "微信",
     "isAnonymous": false
