@@ -27,7 +27,7 @@
     "id": "4",
     "name": "*溢",
     "amount": 9.90,
-    "date": "2025-10-3",
+    "date": "2025-10-03",
     "note": "支付宝",
     "isAnonymous": false
   },
@@ -35,7 +35,7 @@
     "id": "5",
     "name": "*i",
     "amount": 2.00,
-    "date": "2025-10-5",
+    "date": "2025-10-05",
     "note": "微信",
     "isAnonymous": false
   }
