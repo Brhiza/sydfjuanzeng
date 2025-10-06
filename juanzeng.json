@@ -38,5 +38,13 @@
     "date": "2025-10-05",
     "note": "微信",
     "isAnonymous": false
+  },
+    {
+    "id": "6",
+    "name": "WES 温",
+    "amount": 2 00.00,
+    "date": "2025-10-07",
+    "note": "微信",
+    "isAnonymous": false
   }
 ]
