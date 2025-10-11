@@ -46,5 +46,13 @@
     "date": "2025-10-07",
     "note": "微信",
     "isAnonymous": false
+  },
+    {
+    "id": "7",
+    "name": "*🍭",
+    "amount": 66,
+    "date": "2025-10-11",
+    "note": "微信",
+    "isAnonymous": false
   }
 ]
