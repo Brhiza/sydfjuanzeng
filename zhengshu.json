@@ -78,5 +78,13 @@
     "date": "2025-09-10",
     "certificateUrl": "https://cdn.jsdelivr.net/gh/Brhiza/sydfjuanzeng@main/img/25910.jpg",
     "isAnonymous": false
+  },
+  {
+    "id": "11",
+    "name": "希望工程1+1助学行动",
+    "amount": 1000,
+    "date": "2025-10-09",
+    "certificateUrl": "https://cdn.jsdelivr.net/gh/Brhiza/sydfjuanzeng@main/img/251009.jpg",
+    "isAnonymous": false
   }
 ]
