@@ -66,7 +66,25 @@
   ,
     {
     "id": "9",
+    "name": "关总",
+    "amount": 1320,
+    "date": "2025-10-14",
+    "note": "微信",
+    "isAnonymous": false
+  }
+  ,
+    {
+    "id": "10",
     "name": "朱雅倩",
+    "amount": 1000,
+    "date": "2025-10-17",
+    "note": "微信",
+    "isAnonymous": false
+  }
+  ,
+    {
+    "id": "11",
+    "name": "李柯",
     "amount": 1000,
     "date": "2025-10-17",
     "note": "微信",
