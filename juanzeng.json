@@ -90,4 +90,13 @@
     "note": "微信",
     "isAnonymous": false
   }
+  ,
+    {
+    "id": "12",
+    "name": "*雪",
+    "amount": 20,
+    "date": "2025-11-15",
+    "note": "微信",
+    "isAnonymous": false
+  }
 ]
