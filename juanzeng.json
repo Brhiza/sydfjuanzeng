@@ -62,8 +62,7 @@
     "date": "2025-10-11",
     "note": "微信",
     "isAnonymous": false
-  }
-  ,
+  },
     {
     "id": "9",
     "name": "关总",
@@ -71,8 +70,7 @@
     "date": "2025-10-14",
     "note": "微信",
     "isAnonymous": false
-  }
-  ,
+  },
     {
     "id": "10",
     "name": "朱雅倩",
@@ -80,8 +78,7 @@
     "date": "2025-10-17",
     "note": "微信",
     "isAnonymous": false
-  }
-  ,
+  },
     {
     "id": "11",
     "name": "李柯",
@@ -89,8 +86,7 @@
     "date": "2025-11-08",
     "note": "微信",
     "isAnonymous": false
-  }
-  ,
+  },
     {
     "id": "12",
     "name": "*雪",
@@ -98,8 +94,7 @@
     "date": "2025-11-15",
     "note": "微信",
     "isAnonymous": false
-  }
-  ,
+  },
     {
     "id": "13",
     "name": "*堪",
@@ -107,13 +102,36 @@
     "date": "2025-11-23",
     "note": "微信",
     "isAnonymous": false
-  }
-  ,
+  },
     {
     "id": "12",
     "name": "M*e",
     "amount": 5,
-    "date": "2025-11-15",
+    "date": "2025-11-25",
+    "note": "微信",
+    "isAnonymous": false
+  },
+    {
+    "id": "13",
+    "name": "李柯",
+    "amount": 1000,
+    "date": "2025-11-30",
+    "note": "微信",
+    "isAnonymous": false
+  },
+    {
+    "id": "14",
+    "name": "*川",
+    "amount": 10,
+    "date": "2025-12-01",
+    "note": "微信",
+    "isAnonymous": false
+  },
+    {
+    "id": "15",
+    "name": "李柯",
+    "amount": 1800,
+    "date": "2025-12-02",
     "note": "微信",
     "isAnonymous": false
   }
